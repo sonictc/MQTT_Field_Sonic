@@ -1,0 +1,43 @@
+Name: Tags
+Id: g=694cf94e05ea07fd89ac2f2288f2a166
+Type: FolderType
+Children:
+- Name: ModbusTag1
+  Id: g=e00bf9aabd1db5f7bbab13f56d9b9088
+  Type: ModbusTag
+  DataType: Int16
+  Value: 0
+- Name: ModbusTag2
+  Id: g=9eaf8f96bf7114239d18971815ee4fc8
+  Type: ModbusTag
+  DataType: Int16
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 1
+- Name: ModbusTag3
+  Id: g=0bcb25df53401130eed06b6dd58ffab6
+  Type: ModbusTag
+  DataType: Int16
+  Value: 0
+  Children:
+  - Name: NumRegister
+    Type: BaseDataVariableType
+    DataType: UInt16
+    Value: 2
+- Name: StationOperationCode
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../OperationCode"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2

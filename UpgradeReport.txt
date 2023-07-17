@@ -1,0 +1,18 @@
+Project C:/Users/speguan/Downloads/MQTT_Field/MQTT_Field.optix upgraded on 17-07-2023 18:00:53.186
+
+Upgraded modules:
+FTOptix.Core: from 1.0 to 2.0
+FTOptix.Core.Net: from 1.0 to 1.1
+FTOptix.CoreBase: from 1.0 to 2.1
+FTOptix.UI: from 1.0 to 2.0
+FTOptix.UI.Net: from 1.0 to 2.0
+FTOptix.HMIProject: from 1.0 to 4.2
+FTOptix.HMIProject.Net: from 1.0 to 4.2
+FTOptix.Alarm: from 1.0 to 1.1
+FTOptix.NativeUI: from 1.0 to 2.0
+FTOptix.CommunicationDriver: from 1.0 to 2.0
+FTOptix.CommunicationDriver.Net: from 1.0 to 2.0
+
+No potential breaking changes detected
+
+

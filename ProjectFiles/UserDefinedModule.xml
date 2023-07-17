@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>MQTT_FieldUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="26303d249685134ad60359cea1870614" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="90a887a38bf84aec7a644a9f22ec8e3d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="0f793ebc01b89841089c95b3110c56ac" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="1adaf211ed4fe871d54b2fe4c05150b7" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="d0f1a4d29b4cb117f565bb82ed23856a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="abc3b2525c1fde3f5868e0e85c25f114" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="4bd8c521cbf0e23bceab094b514d11c9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="d54006e702bd677e1a944fc0fbe48d9e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MQTT_Field" guid="bb2ecb98594ce50439c752faa2e7db80" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>

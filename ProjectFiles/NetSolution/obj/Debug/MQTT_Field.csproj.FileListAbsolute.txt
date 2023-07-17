@@ -1,0 +1,5 @@
+C:\Users\speguan\Downloads\MQTT_Field\ProjectFiles\NetSolution\obj\Debug\MQTT_Field.csproj.AssemblyReference.cache
+C:\Users\speguan\Downloads\MQTT_Field\ProjectFiles\NetSolution\obj\Debug\MQTT_Field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\speguan\Downloads\MQTT_Field\ProjectFiles\NetSolution\obj\Debug\MQTT_Field.AssemblyInfoInputs.cache
+C:\Users\speguan\Downloads\MQTT_Field\ProjectFiles\NetSolution\obj\Debug\MQTT_Field.AssemblyInfo.cs
+C:\Users\speguan\Downloads\MQTT_Field\ProjectFiles\NetSolution\obj\Debug\MQTT_Field.csproj.CoreCompileInputs.cache

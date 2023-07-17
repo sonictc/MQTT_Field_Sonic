@@ -1,0 +1,12 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: RandomEn
+  Id: g=60ef7dc1534f0e1fa0c3fc2b724079bf
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: SiteName
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Station1"
